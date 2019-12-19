@@ -1,6 +1,6 @@
 # Description
 
-Firefox clean tweaks for userChrome configuration based on [minimal-functional-fox](https://github.com/turing753/minimal-functional-fox)
+Firefox clean tweaks for userChrome configuration based on [minimal-functional-fox](https://github.com/turing753/minimal-functional-fox).
 
 # Preview
 
@@ -22,7 +22,7 @@ Make sure that you have the `Dark` theme enabled.
 3. Enable the `Dark` theme.
 
 # Tips
-* Install Recommended new tab [extension](https://addons.mozilla.org/en-US/firefox/addon/nighttab).
+* Install recommended new tab [extension](https://addons.mozilla.org/en-US/firefox/addon/nighttab).
 
 # Development
 If you wanna mess around the styles and change something, you might find these
